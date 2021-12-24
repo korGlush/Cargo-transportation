@@ -286,7 +286,6 @@ h6 {
 }
 
 .services__item:hover .services__item__img::before {
-	content: "";
 	position: absolute;
 	width: 70px;
 	height: 70px;
@@ -410,7 +409,7 @@ h6 {
 }
 
 .map:hover {
-	opacity: 1;
+	opacity: 2;
 }
 
 
